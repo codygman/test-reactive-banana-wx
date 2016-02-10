@@ -26,6 +26,8 @@ executable test-reactive-banana-wx-exe
   build-depends:       base
                      , test-reactive-banana-wx
                      , reactive-banana-wx
+                     , reactive-banana
+                     , wx
   default-language:    Haskell2010
 
 test-suite test-reactive-banana-wx-test

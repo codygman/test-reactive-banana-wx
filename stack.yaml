@@ -12,3 +12,7 @@ extra-deps:
 - wxcore-0.92.2.0
 - wxdirect-0.92.2.0
 resolver: lts-5.2
+
+explicit-setup-deps:
+    "reactive-banana-wx": true
+    entropy: false

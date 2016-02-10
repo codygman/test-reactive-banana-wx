@@ -1,0 +1,14 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- cabal-macosx-0.2.3.4
+- reactive-banana-1.1.0.0
+- reactive-banana-wx-1.1.0.0
+- text-1.2.2.0
+- wx-0.92.2.0
+- wxc-0.92.2.0
+- wxcore-0.92.2.0
+- wxdirect-0.92.2.0
+resolver: lts-5.2

@@ -11,6 +11,7 @@ extra-deps:
 - wxc-0.92.2.0
 - wxcore-0.92.2.0
 - wxdirect-0.92.2.0
+- Cabal-1.22.7.0
 resolver: lts-5.2
 
 explicit-setup-deps:
